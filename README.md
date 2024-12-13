@@ -11,12 +11,3 @@ Electricity demand forecasting is essential for optimizing energy production and
 - **Visualization**: Displays a graph comparing actual and predicted electricity demand using the LSTM model.
 - **Time Series Forecasting**: Utilizes historical demand data and temporal features (hour, day of the week, month) for accurate forecasting.
 
-## Dataset
-The dataset used in this project is the **LD2011_2014.txt** file from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/00321/). The data contains electricity consumption readings recorded every 15 minutes, which are then resampled to hourly data for the analysis.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone 
-   cd electricity-demand-forecasting
